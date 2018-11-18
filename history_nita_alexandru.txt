@@ -1,0 +1,130 @@
+sudo yum update
+sudo yum -y install httpd
+sudo yum install httpd
+cd/etc/httpd
+cd etc
+:cd
+..cd
+cd..
+cd .
+cd 
+ls -all
+cd 
+cd etc
+cd /etc
+cd /httpd
+cd /http
+cd /httpd/
+cls
+cd h
+cd httpd/
+ls -all
+cd /var/www/httpd
+cd /var
+cd /www
+cd /var/
+cd www/
+cd /home/
+cd ..
+ls -all
+ls
+ls -
+ls -a
+ls -al/etc
+cd var
+cd www/html/
+ls
+sudo yum install nano
+sudo service httpd start
+sudo netstat -tulup
+sudo yum install git
+git --version
+sudo yum groupinstall "Development Tools"
+sudo yum install gettext-devel openssl-devel perl-CPAN perl-devel zlib-devel
+wget https://github.com/git/git/archive/v2.1.2.tar.gz -O git.tar.gz
+wget
+git config --global user.name "nitalexandru"
+git config --global user.email "nitalexandru@outlook.com"
+git config --list
+git --version
+-ls mkdir alice
+git clone https://github.com/nitalexandru/myrepo.git
+ls
+git pul origin
+git pull origin
+mkdir alice
+mkdir bob
+git syn
+history -w ./history_nume_prenume.txt
+git clone
+git clone https://github.com/nitalexandru/myrepo.git
+cd alextest
+mkdir alextest
+cd ..
+cd alexandru_cosmin_nita/
+cd alextest/
+git clone https://github.com/nitalexandru/git-basics.git
+myfile1.txt
+cat > myfile1.txt
+ls -l myfile1.txt 
+git clone https://github.com/nitalexandru/git-basics.git
+git commit
+git commit -all
+git comit 
+git commit
+git clone https://github.com/nitalexandru/git-basics.git
+git push -all
+pwd
+ls -all
+cd git-basics/
+cat >myfile.txt
+git add myfile.txt 
+git commit -all
+git commit -m'myfile1.txt'
+git push origin master
+pwd
+cd ..
+pwd
+cd ..
+pwd
+cd alexandru_cosmin_nita/
+cd alextest/
+cd git-basics/
+pwd
+ls 
+cat > fisiernou.txt
+git add fisiernou.txt 
+git commit -m'fisiernou.txt'
+git push origin master
+git checkout -b <br1>
+git checkout -b br1
+cat > myfile2.txt
+git add myfilee2.txt
+git add myfile2.txt
+git commit -m'myfile2.txt'
+git push origin master
+mkdir br1
+cd br1/
+cat >myfile1.txt
+git commit -m'myfile1.txt'
+git push origin master
+git copmmit
+git commit
+git push origin master
+git push origin br1
+history -w ./history_nita_alexandru.txt
+ls
+git commit -m'history_nita_alexandru.txt'
+git push origin br1
+git commit -m'history_nita_alexandru.txt'
+git add history_nita_alexandru.txt 
+git commit -m'history_nita_alexandru.txt'
+git push origin br1
+git push origin master
+pwd
+cd ..
+git commit -m'history_nita_alexandru.txt'
+git add history_nita_alexandru.txt 
+git add history_nita_alexandru.txt
+pwd
+history -w  history_nita_alexandru.txt 
